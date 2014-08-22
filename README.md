@@ -1,3 +1,5 @@
+![bg_top.png](http://metric2.com/img/bg_top.png)
+
 metric2_mobile
 ==============
 
