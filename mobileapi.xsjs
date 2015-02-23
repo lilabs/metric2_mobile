@@ -22,7 +22,7 @@ $.response.setBody(output);
 
 function executeRecordSetObj1(strSQL){
 	try {
-		var conn = $.db.getConnection("lilabs.metric2.lib::metricuser");
+		var conn = $.db.getConnection("lilabs.mobileapi::apiuser");
 		var pstmt = conn.prepareStatement(strSQL);
 		var rs = pstmt.executeQuery();
 		var rsm = rs.getMetaData();
