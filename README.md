@@ -5,7 +5,8 @@ metric2_mobile
 
 A SAP HANA XS serverside Script/API for the metric² mobile app.
 
-#### Install
+Install
+======
 
 ####1. Import the delivery unit using Lifecycle Manager
 ####2. Run this command to set the sql connection to your prefered user: UPDATE "_SYS_XS" ."SQL_CONNECTIONS" SET username = 'SYSTEM' WHERE name = 'lilabs.mobileapi::apiuser';
