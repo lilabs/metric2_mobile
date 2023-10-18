@@ -1,4 +1,4 @@
-![bg_top.png](http://www.metric2.com/wp-content/uploads/2014/10/bg_top.png)
+![bg_top.png](https://github.com/lilabs/metric2_mobile/blob/master/bg_top.png)
 
 metric² mobile API
 ==============
